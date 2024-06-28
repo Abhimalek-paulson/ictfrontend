@@ -1,0 +1,45 @@
+.navbar{
+    background-color:rgb(219, 94, 94);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    position: relative;
+    margin-bottom: auto;
+    border-radius: 5px;
+    border-color: lightblue;
+    height: 50px;
+   
+
+}
+h1,h3{
+    color: beige;
+}
+.portfolio{
+
+    justify-content: space-between;
+    display: flex;
+    background-color:#FFCC99 ;
+    
+    padding: 15px;
+    width: auto;
+    height: 180px;
+    border-radius: 5px;
+}
+#tbl
+{
+    width: 100%;
+    background-color: lightyellow;
+}
+#tbl th
+{
+    justify-content: space-between;
+    margin: 10px;
+}
+td 
+{
+border: 1px solid #FFCC99;
+text-align: left;
+justify-content: space-between;
+padding: 8px;
+
+}
